@@ -11,12 +11,14 @@ section {
 .jumbotron h1 {
   padding-top: 2rem;
 }
-#contact {
-  background-color: #4abdac;
-}
+
 .gallery-img {
   width: 100%;
 }
 #gallery .row > * {
   padding: 0;
+}
+
+#gallery {
+  padding-bottom: 8rem;
 }
